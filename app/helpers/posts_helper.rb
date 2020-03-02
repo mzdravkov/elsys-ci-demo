@@ -1,5 +1,5 @@
 module PostsHelper
   def screamcase(str)
-    str.upcase
+    str.downcase
   end
 end
